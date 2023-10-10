@@ -6,8 +6,7 @@
 
 <body>
     <center>
-        <form action="<?= base_url('matakuliah/cetak'); ?>"
-method="post">
+        <form action="<?= base_url('matakuliah/cetak'); ?>"method="post">
             <table>
                 <tr>
                     <th colspan="3">
@@ -16,7 +15,7 @@ method="post">
                 </tr>
                 <tr>
                     <td colspan="3">
-                        <hr>
+                    <hr>
                     </td>
                 </tr>
                 <tr>
